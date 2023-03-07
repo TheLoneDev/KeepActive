@@ -10,4 +10,4 @@ When pressing **Start**, the program will press the Escape key and move the mous
 
 ## Download
 
-[Download x64](https://github.com/TheLoneDev/KeepActive/releases/download/0.1/KeepActive.exe)
+[Download x64](https://github.com/TheLoneDev/KeepActive/releases/download/1.0/KeepActive.exe)
